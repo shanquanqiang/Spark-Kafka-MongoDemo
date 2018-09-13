@@ -1,0 +1,1 @@
+从Kafka获取数据经过Spark处理之后将数据写入MongoDB
